@@ -4,7 +4,8 @@ import Cart from './components/Cart';
 function App() {
   return (
     <div className="App">
-      <h1>Cash Register App</h1>
+      <h1><b>Cash Register App</b></h1>
+
       <Cart/>
     </div>
   );

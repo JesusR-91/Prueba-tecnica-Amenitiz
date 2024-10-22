@@ -66,7 +66,7 @@ Para clonar el respositorio de Github ejecutar el siguiente script:
 
 El servidor debería estar disponible en http://localhost:3000.
 
-##Frontend (React)
+### Frontend (React)
 
 1. Cambia al directorio del frontend:
 

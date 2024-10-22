@@ -24,7 +24,7 @@ El repositorio contiene las siguientes carpetas:
 - **Backend**: Ruby on Rails
 - **Base de Datos**: Archivos JSON para datos de productos (para simplificar la prueba, un upgrade del proyecto sería usar Sqlite3, por ejemplo).
 - **Control de Versiones**: Git
-- **Estilos : Bootstrap
+- **Estilos** : Bootstrap
 
 ## Requisitos Previos
 

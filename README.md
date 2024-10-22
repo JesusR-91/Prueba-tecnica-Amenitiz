@@ -36,12 +36,19 @@ Asegúrate de tener instalado lo siguiente:
 
 ## Instalación y Configuración
 
+### Clonar repositorio de Github
+
+Para clonar el respositorio de Github ejecutar el siguiente script:
+
+  ```bash
+   git clone https://github.com/JesusR-91/Prueba-tecnica-Amenitiz.git
+  ```
+
 ### Backend (Ruby on Rails)
 
 1. Clona el repositorio:
 
   ```bash
-   git clone https://github.com/JesusR-91/Prueba-tecnica-Amenitiz.git
    cd shop_api
   ```
 2. Instala las gemas necesarias:

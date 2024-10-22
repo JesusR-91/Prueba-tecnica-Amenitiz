@@ -41,7 +41,7 @@ Asegúrate de tener instalado lo siguiente:
 1. Clona el repositorio:
 
   ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone [<URL_DE_TU_REPOSITORIO>](https://github.com/JesusR-91/Prueba-tecnica-Amenitiz.git)
    cd shop_api
   ```
 2. Instala las gemas necesarias:
